@@ -20,7 +20,7 @@
 </a>
 
 # Frequently Asked Questions
-**Why?**
+**Why?**\
 I just needed a good engine to base my games off of, and I decided to make it open source.
 
 # What I've done so far

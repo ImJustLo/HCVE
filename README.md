@@ -17,5 +17,11 @@ I just needed a good engine to base my games off of, and I decided to make it op
 > This engine will take a while to complete and may contain bugs!!\
 > Post a issue if a problem does arise.
 
+# What I've done so far
+
+- [x] Made a window with the code
+- [ ] Started rendering a triangle
+
+
 </p>
 

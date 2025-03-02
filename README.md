@@ -3,7 +3,7 @@
 </p>
 <p align ="center">
   
-## A very lightweight C++ game engine.
+## A very lightweight C++ game engine focused on blazing fast performance.
 
 > [!WARNING]
 > This engine will take a while to complete and may contain bugs!!\
@@ -29,7 +29,5 @@ I just needed a good engine to base my games off of, and I decided to make it op
 - [ ] Started rendering a triangle
 
 [Documentation](DOCS.md)
-
-
 </p>
 

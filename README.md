@@ -5,6 +5,10 @@
   
 ## A very lightweight C++ game engine using GLFW and Vulcan as a graphics renderer.
 
+> [!WARNING]
+> This engine will take a while to complete and may contain bugs!!\
+> Post a issue if a problem does arise.
+
 [Vulkan SDK](https://vulkan.lunarg.com/)
 
 [GLFW](https://www.glfw.org/)
@@ -12,10 +16,6 @@
 # Frequently Asked Questions
 **Why?**
 I just needed a good engine to base my games off of, and I decided to make it open source.
-
-> [!WARNING]
-> This engine will take a while to complete and may contain bugs!!\
-> Post a issue if a problem does arise.
 
 # What I've done so far
 

@@ -28,6 +28,8 @@ I just needed a good engine to base my games off of, and I decided to make it op
 - [x] Made a window with the code
 - [ ] Started rendering a triangle
 
+[Documentation](DOCS.md)
+
 
 </p>
 
